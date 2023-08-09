@@ -1,0 +1,10 @@
+com\alura\jpa_hibernate\mercado\utils\JpaUtils.class
+com\alura\jpa_hibernate\mercado\entity\Pedido.class
+com\alura\jpa_hibernate\mercado\Mercado.class
+com\alura\jpa_hibernate\mercado\entity\Carrito.class
+com\alura\jpa_hibernate\mercado\entity\Cliente.class
+com\alura\jpa_hibernate\mercado\MercadoJPQL.class
+com\alura\jpa_hibernate\mercado\dao\CategoriaDAO.class
+com\alura\jpa_hibernate\mercado\entity\Categoria.class
+com\alura\jpa_hibernate\mercado\entity\Producto.class
+com\alura\jpa_hibernate\mercado\dao\ProductoDAO.class
